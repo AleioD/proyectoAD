@@ -8,9 +8,11 @@ header{
 }
 
 .indexContainer,
-.servicesContainer {
+.servicesContainer,
+.contactContainer {
   width: 97vw;
   margin: 0 auto;
+  border: solid 1px black;
 }
 
 .servicesContainer{
@@ -160,4 +162,22 @@ header{
   align-items: center;
   justify-content: center;
   font-size: 25px;
+}
+
+.formContainer,
+.contactFormData{
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 1px black;
+}
+
+.contactContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: solid 1px black;
+}
+
+#textareaContact{
+	resize: none;
 }

@@ -84,4 +84,4 @@ require_once 'partials/navbar.php';
       </div>
     </div>
 
-<?= require_once 'partials/footer.php';  ?>
+<?php require_once 'partials/footer.php';  ?>
