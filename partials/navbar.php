@@ -18,11 +18,11 @@
     </div>
     <div class="col-md-10 navbarListContainer">
       <ul class="navbarList">
-        <li class=""><a href="#">HOME</a></li>
+        <li class=""><a href="index.php">HOME</a></li>
         <li class=""><a href="#">HOSTING</a></li>
         <li class=""><a href="#">DESARROLLO WEB</a></li>
         <li class=""><a href="#">POSICIONAMIENTO</a></li>
-        <li class=""><a href="#">CONTACTO</a></li>
+        <li class=""><a href="contact.php">CONTACTO</a></li>
       </ul>
     </div>
   </div>
