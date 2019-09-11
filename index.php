@@ -69,7 +69,7 @@ require_once 'partials/navbar.php';
         <a href="contact.php"><button type="button" class="btn btn-primary">CONTACTENOS</button></a>
       </div>
       <div class="weImage col-md-4">
-
+        <img src="img/weImage.jpg" alt="weImage">
       </div>
     </div>
     <div class="indexFooter col-md-12">

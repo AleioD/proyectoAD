@@ -11,22 +11,37 @@ require_once 'partials/navbar.php';
       <br>
       <div class="form-row col-md-12">
         <input type="text" class="form-control" id="name" placeholder="Nombre">
+        <div class="invalid">
+          <!-- Mensaje de error -->
+        </div>
       </div>
       <br>
       <div class="form-row col-md-12">
         <input type="text" class="form-control" id="surname" placeholder="Apellido">
+        <div class="invalid">
+          <!-- Mensaje de error -->
+        </div>
       </div>
       <br>
       <div class="form-row col-md-12">
         <input type="email" class="form-control" id="email" placeholder="direccion@email.com">
+        <div class="invalid">
+          <!-- Mensaje de error -->
+        </div>
       </div>
       <br>
       <div class="form-row col-md-12">
         <input type="text" class="form-control" id="phone" placeholder="Teléfono">
+        <div class="invalid">
+          <!-- Mensaje de error -->
+        </div>
       </div>
       <br>
       <div class="form-row col-md-12">
         <textarea class="form-control" id="textareaContact" rows="3" placeholder="Escriba su consulta aquí..."></textarea>
+        <div class="invalid">
+          <!-- Mensaje de error -->
+        </div>
       </div>
       <br>
       <div class="form-row col-md-8">
@@ -36,7 +51,7 @@ require_once 'partials/navbar.php';
 
   </div>
   <div class="contactFormData col-md-4">
-    
+
   </div>
 </div>
 
