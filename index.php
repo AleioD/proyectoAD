@@ -27,7 +27,7 @@ require_once 'partials/navbar.php';
 
     <div class="servicesContainer col-md-12">
       <h2>Nuestros servicios</h2>
-      <div class="services">
+      <div class="services col-md-12">
         <div class="oneService">
           <div class="serviceDescription">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>

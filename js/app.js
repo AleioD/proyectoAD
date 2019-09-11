@@ -45,7 +45,7 @@ if (form != null) {
   		if (fieldValue === '') {
   			this.classList.add('is-invalid'); // add is-invalid class
   			divError.style.display = 'block'; // div error visible
-  			divError.innerText = `El campo ${this.name} es obligatorio`; // setting text error
+  			divError.innerText = `El campo es obligatorio`; // setting text error
 
   			// add a key to de errors object
   			errors[this.name] = true;

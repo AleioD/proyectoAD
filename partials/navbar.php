@@ -17,11 +17,11 @@
       LOGO/NOMBRE
     </div>
     <div class="col-md-10 navbarListContainer">
-      <ul class="navbarList">
+      <ul class="navbarList col-md-12">
         <li class=""><a href="index.php">HOME</a></li>
-        <li class=""><a href="#">HOSTING</a></li>
-        <li class=""><a href="#">DESARROLLO WEB</a></li>
-        <li class=""><a href="#">POSICIONAMIENTO</a></li>
+        <li class=""><a href="hosting.php">HOSTING</a></li>
+        <li class=""><a href="webdev.php">DESARROLLO WEB</a></li>
+        <li class=""><a href="seo.php">POSICIONAMIENTO</a></li>
         <li class=""><a href="contact.php">CONTACTO</a></li>
       </ul>
     </div>
