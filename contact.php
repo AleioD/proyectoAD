@@ -1,14 +1,15 @@
 <?php
 $pageTitle = 'Contacto';
-require_once 'partials/head.php';
-require_once 'partials/navbar.php';
-?>
-
-<?php if (!empty($_POST)) { ?>
+if (!empty($_POST)) { ?>
   <script type="text/javascript">
   alert('El formulario ha sido enviado con éxito.')
   </script>
-<?php  } ?>
+<?php } ?>
+
+<?php
+require_once 'partials/head.php';
+require_once 'partials/navbar.php';
+?>
 
 <div class="contactContainer col-md-12">
   <div class="formContainer col-md-8">
