@@ -7,6 +7,9 @@ if (!empty($_POST)) { ?>
 <?php } ?>
 
 <?php
+// if (!empty($_POST)) {
+//   mail('alejandrodaquila@hotmail.com', 'Consulta', 'Form enviado', "FROM: " . $_POST['email']);
+// }
 require_once 'partials/head.php';
 require_once 'partials/navbar.php';
 ?>

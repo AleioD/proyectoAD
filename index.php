@@ -4,8 +4,8 @@ require_once 'partials/head.php';
 require_once 'partials/navbar.php';
 ?>
 
-<div class="indexContainer col-md-12">
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<div class="indexContainer">
+  <div id="carousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>

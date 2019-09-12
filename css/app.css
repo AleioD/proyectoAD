@@ -2,21 +2,26 @@
 
 @import url("https://fonts.googleapis.com/css?family=Raleway");
 
+*{
+  box-sizing: border-box;
+}
+
 header{
-  width: 95vw;
-  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.container{
+  flex-wrap: wrap;
 }
 
 .indexContainer,
 .servicesContainer,
 .contactContainer {
-  width: 100%;
-  margin: 0 auto;
-  /* border: solid 1px black; */
+  flex-wrap: wrap;
 }
 
 .servicesContainer{
-  margin-top: 2vh;
+  margin-top: 5px;
   text-align: center;
 }
 
@@ -60,27 +65,29 @@ header{
 }
 
 .interactivNav{
-  display: inline-flex;
+  /* display: inline-flex; */
   flex-wrap: wrap;
   height: 13vh;
 }
 
 .fixedNav{
-  width: 97vw;
+  width: 100vw;
   height: 13vh;
   background-color: white;
   position: fixed;
   top: 0;
-  left: 2vw;
-  z-index: 50;
+  z-index: 1;
 }
 
 .logo{
   display: flex;
-  width: 100%;
-  align-items: center;
+  flex-wrap: wrap;
+  height: 100%;
   justify-content: center;
-  font-size: 25px;
+}
+
+.logo img{
+  height: 100%;
 }
 
 .navbarListContainer{

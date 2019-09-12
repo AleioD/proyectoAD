@@ -17,3 +17,4 @@
 		</style>
 	</head>
 	<body>
+		<div class="container col-md-12">
