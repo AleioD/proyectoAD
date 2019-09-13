@@ -2,7 +2,7 @@
   <div class="row pinNav">
     <div class="pinNavData">
       <span class="socialMediaLogos">
-        <a href="#"><ion-icon name="logo-facebook" style="color: white"></ion-icon></a>
+        <a href="https://www.facebook.com/AD-Web-Technologies-105008070892421/"><ion-icon name="logo-facebook" style="color: white"></ion-icon></a>
         <a href="#"><ion-icon name="logo-instagram" style="color: white"></ion-icon></a>
         <a href="#"><ion-icon name="logo-linkedin" style="color: white"></ion-icon></a>
       </span>
