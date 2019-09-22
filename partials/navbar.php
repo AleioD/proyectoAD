@@ -1,9 +1,9 @@
 <header>
   <div class="row pinNav">
       <span class="socialMediaLogos">
-        <a href="https://www.facebook.com/AD-Web-Technologies-105008070892421/" target="_blank"><ion-icon name="logo-facebook" style="color: white"></ion-icon></a>
+        <a href="https://www.facebook.com/adwebtechs" target="_blank"><ion-icon name="logo-facebook" style="color: white"></ion-icon></a>
         <a href="#"><ion-icon name="logo-instagram" style="color: white"></ion-icon></a>
-        <a href="#"><ion-icon name="logo-linkedin" style="color: white"></ion-icon></a>
+        <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" style="color: white"></ion-icon></a>
       </span>
       <span class="contactData">
         <span><ion-icon name="phone-portrait"></ion-icon>+54 (011) 5973-3315</span>
