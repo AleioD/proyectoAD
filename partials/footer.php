@@ -1,8 +1,8 @@
       <div class="indexFooter col-md-12">
-        <div class="indexFooterLogo col-md-4">
-          LOGO/NOMBRE
+        <div class="indexFooterLogo col-md-6">
+          <img src="img/logo.jpg" alt="Logo">
         </div>
-        <div class="indexFooterContact col-md-4">
+        <div class="indexFooterContact col-md-6">
           <div class="dataTitle col-md-8">
             <ion-icon name="mail"></ion-icon><h2>MAIL</h2>
           </div>
@@ -15,9 +15,6 @@
           <div class="dataData col-md-8">
             <h4>+54 (011) 5973-3315</h4>
           </div>
-        </div>
-        <div class="indexFooterSocial col-md-4">
-          REDES
         </div>
       </div>
 
