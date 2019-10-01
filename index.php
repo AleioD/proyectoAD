@@ -30,7 +30,8 @@ require_once 'partials/navbar.php';
       <div class="services col-md-12">
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>
+            <p>Planes diseñados y adaptados a la necesidad de cada cliente que
+            permiten optimizar su desarrollo.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Hosting</h4>
@@ -38,7 +39,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>
+            <p>Sitios y herramientas web desarrolladas a medida específica de requerimientos establecidos.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Desarrollo Web</h4>
@@ -46,7 +47,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>
+            <p>Diseños adaptables a los dispositivos requeridos: celulares, tablets, notebooks, ordenadores.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Diseño Responsive</h4>
@@ -54,7 +55,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt .</p>
+            <p>Optimización en motores de búsqueda (S. E. O.) de su sitio para un mejor rendimiento.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Posicionamiento</h4>
