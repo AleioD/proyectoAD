@@ -7,7 +7,8 @@ require_once 'partials/navbar.php';
 <div class="infoContainer col-md-12">
   <div class="infoInformation col-md-7">
     <h3>Posicionamiento (SEO)</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>La optimización en motores de búsqueda (o SEO, por sus siglas en inglés), son las acciones orientadas a la mejora del posicionamiento de un sitio web en los resultados de los principales buscadores de internet, siendo Google el principal y más famoso.
+    <br>Se ofrecen distintas estrategias basadas en los aspectos técnicos del SEO, tanto en el posicionamiento interno -mejoras aplicadas en el desarrollo web del sitio- como en el posicionamiento externo -técnicas empleadas para mejorar la notoriedad del sitio en los medios en línea-.</p>
     <a href="contact.php"><button type="button" class="btn btn-primary">CONTACTENOS</button></a>
   </div>
   <div class="infoImage col-md-5">

@@ -7,7 +7,10 @@ require_once 'partials/navbar.php';
 <div class="infoContainer col-md-12">
   <div class="infoInformation col-md-7">
     <h3>Desarrollo web</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p>Cada día, más empresas buscan utilizar herramientas web para sus desarrollos profesionales. Desde un sitio web, instrumento fundamental para darse a conocer, hasta programas diseñados íntegramente con esta tecnología, que permite un acceso tanto local como remoto desde cualquier parte del mundo con sólo una conexión a internet, con un diseño parametrizable a celulares, tablets, notebooks y ordenadores.
+    <br>Manejo de stock, creación de estadísticas y cualquier idea que el cliente anhele será diseñada y llevada a la realidad por especialistas, los cuales lo asesorarán en el perfeccionamiento y las mejoras necesarias para la optimización de los procesos necesarios.
+    <br>Eleve el potencial y facilite sus métodos laborales.
+</p>
     <a href="contact.php"><button type="button" class="btn btn-primary">CONTACTENOS</button></a>
   </div>
   <div class="infoImage col-md-5">

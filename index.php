@@ -30,8 +30,7 @@ require_once 'partials/navbar.php';
       <div class="services col-md-12">
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Planes diseñados y adaptados a la necesidad de cada cliente que
-            permiten optimizar su desarrollo.</p>
+            <p>Encontrá tu plan ideal con todo lo necesario para alojar tu sitio web, con acceso completo y asistencia eficaz.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Hosting</h4>
@@ -39,7 +38,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Sitios y herramientas web desarrolladas a medida específica de requerimientos establecidos.</p>
+            <p>Capacidad y creatividad para concretar tus ideas en el diseño óptimo de programas y sitios.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Desarrollo Web</h4>
@@ -47,7 +46,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Diseños adaptables a los dispositivos requeridos: celulares, tablets, notebooks, ordenadores.</p>
+            <p>Dinámicas para lograr la mejor performance en celulares, tablets, notebooks y ordenadores.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Diseño Responsive</h4>
@@ -55,7 +54,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Optimización en motores de búsqueda (S. E. O.) de su sitio para un mejor rendimiento.</p>
+            <p>Optimización en motores de búsqueda (SEO) para un sitio de primera línea en el máximo nivel.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Posicionamiento</h4>

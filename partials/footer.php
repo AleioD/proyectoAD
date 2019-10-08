@@ -1,6 +1,6 @@
       <div class="indexFooter col-md-12">
         <div class="indexFooterLogo col-md-6">
-          <img src="img/logo.jpg" alt="Logo">
+          <img src="img/logo.png" alt="Logo">
         </div>
         <div class="indexFooterContact col-md-6">
           <div class="dataTitle col-md-8">

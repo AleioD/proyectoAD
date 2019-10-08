@@ -10,7 +10,7 @@
         <span><ion-icon name="mail"></ion-icon>info@adwebtechs.com</span>
       </span>
       <span class="xslogo">
-        <img src="img/logo.jpg" alt="Logo">
+        <img src="img/logo.png" alt="Logo">
       </span>
       <span class="xs-navbarListContainer">
         <div class="btn-group">
@@ -29,7 +29,7 @@
     </div>
   <div class="row interactivNav">
     <div class="col-md-3 md-logo">
-      <img src="img/logo.jpg" alt="Logo">
+      <img src="img/logo.png" alt="Logo">
     </div>
     <div class="col-md-9 md-navbarListContainer">
       <ul class="navbarList col-md-12">
