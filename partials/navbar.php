@@ -1,13 +1,13 @@
 <header>
   <div class="row pinNav">
       <span class="socialMediaLogos">
-        <a href="https://www.facebook.com/adwebtechs" target="_blank"><ion-icon name="logo-facebook" style="color: white"></ion-icon></a>
-        <a href="#"><ion-icon name="logo-instagram" style="color: white"></ion-icon></a>
-        <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" style="color: white"></ion-icon></a>
+        <a href="https://www.facebook.com/adwebtechs" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
+        <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+        <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" ></ion-icon></a>
       </span>
       <span class="contactData">
-        <span><ion-icon name="phone-portrait"></ion-icon>+54 (011) 5973-3315</span>
-        <span><ion-icon name="mail"></ion-icon>info@adwebtechs.com</span>
+        <span><ion-icon name="phone-portrait"></ion-icon><a class="wppLink" href="https://wa.me/541159733315" target="_blank">+54 (011) 5973-3315</a><ion-icon class="wppLogo" name="logo-whatsapp"></ion-icon></span>
+        <span><ion-icon name="mail"></ion-icon><a class="mailLink" href="mailto:info@adwebtechs.com" target="_top">info@adwebtechs.com</a></span>
       </span>
       <span class="xslogo">
         <img src="img/logo.png" alt="Logo">

@@ -93,7 +93,7 @@ require_once 'partials/navbar.php';
         <ion-icon name="mail"></ion-icon><h2>MAIL</h2>
       </div>
       <div class="dataData col-md-8">
-        <h4>info@adwebtechs.com</h4>
+        <h4><a href="mailto:info@adwebtechs.com" target="_top">info@adwebtechs.com</a></h4>
       </div>
       <div class="dataTitle col-md-8">
         <ion-icon name="phone-portrait"></ion-icon><h2>TELEFONO</h2>

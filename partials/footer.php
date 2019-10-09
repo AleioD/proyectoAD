@@ -7,13 +7,13 @@
             <ion-icon name="mail"></ion-icon><h2>MAIL</h2>
           </div>
           <div class="dataData col-md-8">
-            <h4>info@adwebtechs.com</h4>
+            <h4><a href="mailto:info@adwebtechs.com" target="_top">info@adwebtechs.com</a></h4>
           </div>
           <div class="dataTitle col-md-8">
             <ion-icon name="phone-portrait"></ion-icon><h2>TELEFONO</h2>
           </div>
           <div class="dataData col-md-8">
-            <h4>+54 (011) 5973-3315</h4>
+            <h4>+54 (011) 5973-3315 <a href="https://wa.me/541159733315" target="_blank"><ion-icon class="wppLogo" name="logo-whatsapp"></ion-icon></a></h4>
           </div>
         </div>
       </div>

@@ -65,12 +65,14 @@ require_once 'partials/navbar.php';
     <div class="infoContainer col-md-12">
       <div class="infoInformation col-md-7">
         <h3>Nuestra empresa</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>AD Web Technologies nació con el propósito de brindar soluciones simples a problemas complejos basándonos en tecnología web, la cual posee muchas ventajas con respecto a otras formas de encarar un proyecto.
+        <br>En la actualidad, una página web como herramienta laboral es el paso fundamental para que cualquier empresa o desarrollo personal sea conocido con mayor facilidad. Pero también la tecnología web sirve para elaborar programas o pequeños módulos de trabajo con el fin de facilitar procesos, los cuales pueden ser ejecutados desde cualquier parte del mundo con una conexión a internet, así como también trabajados de manera local.
+        <br>Interpretamos las necesidades del cliente, elaboramos un presupuesto sin costo y llevamos sus ideas a la realidad.</p>
         <a href="contact.php"><button type="button" class="btn btn-primary">CONTACTENOS</button></a>
       </div>
-      <div class="infoImage col-md-5">
+      <!-- <div class="infoImage col-md-5">
         <img src="img/weImage.jpg" alt="weImage">
-      </div>
+      </div> -->
     </div>
 
 <?php require_once 'partials/footer.php';  ?>
