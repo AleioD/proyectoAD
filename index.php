@@ -38,7 +38,7 @@ require_once 'partials/navbar.php';
         </div>
         <div class="oneService">
           <div class="serviceDescription">
-            <p>Capacidad y creatividad para concretar tus ideas en el diseño óptimo de programas y sitios.</p>
+            <p>Capacidad y creatividad al servicio de tus ideas para lograr el diseño óptimo de programas y sitios.</p>
           </div>
           <div class="serviceName">
             <h4 style="font-size: 23px;">Desarrollo Web</h4>
