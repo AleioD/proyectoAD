@@ -2,7 +2,7 @@
   <div class="row pinNav">
       <span class="socialMediaLogos">
         <a href="https://www.facebook.com/adwebtechs" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
-        <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+        <a href="https://www.instagram.com/adwebtechs/" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
         <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" ></ion-icon></a>
       </span>
       <span class="contactData">
