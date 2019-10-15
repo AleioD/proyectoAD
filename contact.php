@@ -89,16 +89,16 @@ require_once 'partials/navbar.php';
 
     </div>
     <div class="dataContainer col-md-4">
-      <div class="dataTitle col-md-8">
+      <div class="dataTitle col-md-12">
         <ion-icon name="mail"></ion-icon><h2>MAIL</h2>
       </div>
-      <div class="dataData col-md-8">
+      <div class="dataData col-md-12">
         <h4><a href="mailto:info@adwebtechs.com" target="_top">info@adwebtechs.com</a></h4>
       </div>
-      <div class="dataTitle col-md-8">
+      <div class="dataTitle col-md-12">
         <ion-icon name="phone-portrait"></ion-icon><h2>TELEFONO</h2>
       </div>
-      <div class="dataData col-md-8">
+      <div class="dataData col-md-12">
         <h4>+54 (011) 5973-3315</h4>
       </div>
     </div>

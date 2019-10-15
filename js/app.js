@@ -1,8 +1,19 @@
+//When screen is min- width 1024px
+const mobile = window.matchMedia( "(max-width: 1024px)" );
+
 // When the user scrolls the page, execute fixNavBar
-window.onscroll = function() {fixNavBar()};
+if (!mobile.matches) {
+  window.onscroll = function() {fixNavBar()};
+}
+
+if (mobile.matches) {
+  window.onscroll = function() {fixNavBarMobile()};
+}
 
 // Get the navbar
 var interactivNav = document.querySelector(".interactivNav");
+var xslogo = document.querySelector(".xslogo");
+
 
 // Add the class to the navbar when you reach the scroll position. Remove it when you leave the scroll position
 function fixNavBar() {
@@ -12,6 +23,18 @@ function fixNavBar() {
   } else {
     interactivNav.classList.remove("fixedNav");
     interactivNav.classList.add("interactivNav");
+  }
+}
+
+function fixNavBarMobile() {
+  if (window.pageYOffset > 120) {
+    interactivNav.classList.remove("interactivNav");
+    interactivNav.classList.add("fixedNav");
+    xslogo.style.display = 'none';
+  } else {
+    interactivNav.classList.remove("fixedNav");
+    interactivNav.classList.add("interactivNav");
+    xslogo.style.display = 'flex';
   }
 }
 
