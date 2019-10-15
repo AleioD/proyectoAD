@@ -20,6 +20,47 @@ header{
   flex-wrap: wrap;
 }
 
+.servicesContainer{
+  text-align: center;
+  background-image: url("../img/Banner4.png");
+  background-size: cover;
+}
+
+.services{
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.oneService{
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+  /* background-image: url("../img/Banner4.png");
+  background-size: cover; */
+}
+
+/* .serviceName{
+  width: 100%;
+  background-image: url("../img/pinnavBack.png");
+  background-size: cover;
+  color: white;
+}
+
+.serviceDescription{
+  width: 100%;
+  background-image: url("../img/infoback.png");
+  background-size: cover;
+  font-weight: bold;
+} */
+
+.infoContainer{
+  padding: 20px 0px;
+  background-image: url("../img/Banner4-reverse.png");
+  background-size: cover;
+  text-align: center;
+}
+
 /* .pinNav{
   display: flex;
   flex-wrap: wrap;
@@ -245,6 +286,8 @@ header{
   .servicesContainer{
     margin-top: 5px;
     text-align: center;
+    flex-wrap: wrap;
+    background-image: none;
   }
 
   .services{
@@ -258,19 +301,21 @@ header{
   .oneService{
     width: 15vw;
     height: 195px;
+    flex-wrap: wrap;
   }
 
   .serviceDescription{
     text-align: justify;
   }
 
-  .serviceName{
-    align-self: flex-end;
+  .serviceDescription p{
+    margin-bottom: 0;
   }
 
   .infoContainer{
     display: flex;
     flex-wrap: wrap;
+    text-align: left;
     height: 85vh;
     margin-top: 1px;
     background-image: url("../img/infoback.png");
