@@ -27,7 +27,7 @@ function fixNavBar() {
 }
 
 function fixNavBarMobile() {
-  if (window.pageYOffset > 120) {
+  if (window.pageYOffset > 80) {
     interactivNav.classList.remove("interactivNav");
     interactivNav.classList.add("fixedNav");
     xslogo.style.display = 'none';

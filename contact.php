@@ -99,7 +99,7 @@ require_once 'partials/navbar.php';
         <ion-icon name="phone-portrait"></ion-icon><h2>TELEFONO</h2>
       </div>
       <div class="dataData col-md-12">
-        <h4>+54 (011) 5973-3315</h4>
+        <h4>+54 (011) 5973-3315 <a href="https://wa.me/541159733315" target="_blank"><ion-icon class="wppLogo" name="logo-whatsapp"></ion-icon></a></h4>
       </div>
     </div>
   </div>
