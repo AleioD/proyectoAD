@@ -1,6 +1,35 @@
       <div class="indexFooter col-md-12">
         <div class="indexFooterLogo col-md-6">
-          <img src="img/logo.png" alt="Logo">
+          <!-- <img src="img/logo.png" alt="Logo"> -->
+          <form class="" action="" method="POST">
+            <h3 id="formTitle">¿Nos contactamos con ud.?</h1>
+            <br>
+            <div class="form-row">
+              <input type="text" class="form-control" name="name" id="name" placeholder="Nombre">
+              <div class="invalid">
+                <!-- Mensaje de error -->
+              </div>
+            </div>
+            <br>
+            <div class="form-row">
+              <input type="email" class="form-control" name="email" id="email" placeholder="direccion@email.com">
+              <div class="invalid">
+                <!-- Mensaje de error -->
+              </div>
+            </div>
+            <br>
+            <div class="form-row">
+              <input type="text" class="form-control" name="phone" id="phone" placeholder="Teléfono">
+              <div class="invalid">
+                <!-- Mensaje de error -->
+              </div>
+            </div>
+            <br>
+            <div class="form-row">
+              <button type="submit" class="btn btn-primary">Enviar</button>
+            </div>
+            <br>
+          </form>
         </div>
         <div class="indexFooterContact col-md-6">
           <div class="dataTitle col-md-8">
