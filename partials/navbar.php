@@ -3,7 +3,7 @@
       <span class="socialMediaLogos">
         <a href="https://www.facebook.com/adwebtechs" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
         <a href="https://www.instagram.com/adwebtechs/" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
-        <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" ></ion-icon></a>
+        <!-- <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" ></ion-icon></a> -->
       </span>
       <span class="contactData">
         <span><ion-icon name="phone-portrait"></ion-icon><a class="wppLink" href="https://wa.me/541159733315" target="_blank">+54 (011) 5973-3315</a><ion-icon class="wppLogo" name="logo-whatsapp"></ion-icon></span>
@@ -57,7 +57,7 @@
     <span class="socialMediaLogos">
       <a href="https://www.facebook.com/adwebtechs" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
       <a href="https://www.instagram.com/adwebtechs/" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
-      <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" ></ion-icon></a>
+      <!-- <a href="https://www.linkedin.com/in/adaquila/" target="_blank"><ion-icon name="logo-linkedin" ></ion-icon></a> -->
     </span>
     <!-- <span class="xslogo">
       <img src="img/logo.png" alt="Logo">
