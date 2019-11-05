@@ -13,13 +13,13 @@ require_once 'partials/navbar.php';
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active" data-interval="3000">
-        <img src="img/slider1.jpg" class="d-block w-100" alt="slider1">
+        <img src="img/Slider1.jpg" class="d-block w-100" alt="slider1">
       </div>
       <div class="carousel-item" data-interval="3000">
-        <img src="img/slider2.jpg" class="d-block w-100" alt="slider2">
+        <img src="img/Slider2.jpg" class="d-block w-100" alt="slider2">
       </div>
       <div class="carousel-item" data-interval="3000">
-        <img src="img/slider3.jpg" class="d-block w-100" alt="slider3">
+        <img src="img/Slider3.jpg" class="d-block w-100" alt="slider3">
       </div>
     </div>
   </div>
