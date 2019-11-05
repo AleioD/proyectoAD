@@ -8,7 +8,7 @@ if (!empty($_POST)) { ?>
 <?php
 if (!empty($_POST)) {
 	// Destinatario
-	$for  = 'alejandrodaquila@gmail.com';
+	$for  = 'info@adwebtechs.com';
 	// Asunto
 	$subject = 'Consulta de ' . $_POST['email'];
 	// Mensaje
@@ -38,9 +38,9 @@ if (!empty($_POST)) {
 
 
 	if(!empty($_POST['textareaContact'])){
-		$mail_sent = mail($for, $subject, $message, $header);
+		mail($for, $subject, $message, $header);
 	} else {
-		$mail_sent = mail($for, $subject, 'Sin mensaje', $header);
+		mail($for, $subject, 'Sin mensaje', $header);
 	}
 }
 
