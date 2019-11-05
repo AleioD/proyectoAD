@@ -10,10 +10,13 @@ if (!empty($_POST)) {
 	// Destinatario
 	$for  = 'info@adwebtechs.com';
 	// Asunto
-	$subject = 'Consulta de ' . $_POST['email'];
 	// Mensaje
 	if(!empty($_POST['textareaContact'])){
-		$message = $_POST['textareaContact'];
+		$subject = 'Consulta de ' . $_POST['name'] . " " . $_POST['surname'] . " - " . $_POST['email'];
+		$message = $_POST['textareaContact'] . " - Teléfono: " . $_POST['phone'];
+	} else {
+		$subject = 'Consulta de ' . $_POST['name'] . " - " . $_POST['email'];
+		$message = "Teléfono: " . $_POST['phone'];
 	}
 	// // Send
 	// $headers = "From: " . $_POST['email'];
@@ -37,12 +40,15 @@ if (!empty($_POST)) {
 		// $header .= iconv_mime_encode("Subject", $subject);
 
 
-	if(!empty($_POST['textareaContact'])){
-		mail($for, $subject, $message, $header);
-	} else {
-		mail($for, $subject, 'Sin mensaje', $header);
-	}
+	// if(!empty($_POST['textareaContact'])){
+	// 	mail($for, $subject, $message, $header);
+	// } else {
+	// 	mail($for, $subject, 'Sin mensaje', $header);
+	// }
+
+	mail($for, $subject, $message, $header);
 }
+
 
 ?>
 
