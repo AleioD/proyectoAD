@@ -69,6 +69,21 @@ if (!empty($_POST)) {
 				color: red;
 			}
 		</style>
+		<div class="tags">
+			<h1>AD Web Technologies</h1>
+			<em>páginas</em>
+			<em>web</em>
+			<em>programas</em>
+			<em>hosting</em>
+			<em>seo</em>
+			<em>posicionamiento</em>
+			<em>responsive</em>
+			<em>ad</em>
+			<em>Technologies</em>
+			<em>techs</em>
+			<em>sitio</em>
+			<em>desarollos</em>
+		</div>
 	</head>
 	<body>
 		<div class="container col-12">

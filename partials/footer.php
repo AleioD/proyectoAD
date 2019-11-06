@@ -2,7 +2,7 @@
         <div class="indexFooterLogo col-md-6">
           <!-- <img src="img/logo.png" alt="Logo"> -->
           <form class="" action="" method="POST">
-            <h3 id="formTitle">¿Nos contactamos con ud.?</h1>
+            <h3 id="formTitle">¿Nos contactamos con ud.?</h3>
             <br>
             <div class="form-row">
               <input type="text" class="form-control" name="name" id="name" placeholder="Nombre">
