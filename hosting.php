@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Hosting';
+$pageTitle = 'AD WebTechs - Hosting';
 require_once 'partials/head.php';
 require_once 'partials/navbar.php';
 ?>

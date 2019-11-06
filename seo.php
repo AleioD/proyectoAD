@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Posicionamiento';
+$pageTitle = 'AD WebTechs - Posicionamiento';
 require_once 'partials/head.php';
 require_once 'partials/navbar.php';
 ?>
